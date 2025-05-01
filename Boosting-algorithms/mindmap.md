@@ -95,3 +95,5 @@ Boosting is an **ensemble learning technique** that combines multiple weak learn
 
 > Boosting is widely used in **Kaggle competitions**, **industry ML systems**, and wherever **structured data** is involved due to its power and flexibility.
 
+## 🗺️ 9. Mind Map:
+![image](https://github.com/user-attachments/assets/c0350128-4de7-49f8-ac58-bf59d5682c88)
